@@ -1,0 +1,27 @@
+{
+  "name": "temperature-fronted",
+  "version": "0.0.1",
+  "homepage": "https://github.com/RazzyJohnson/TemperatureFrontend",
+  "authors": [
+    "Bastiaan Niamut <bastiaan.niamut@searchbased.nl>"
+  ],
+  "description": "Frontend for reading temeratures",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-loader": "1.2.x",
+    "angular-nvd3": "~0.1.1",
+    "angular-mocks": "~1.2.x",
+    "angular-route": "1.2.x",
+    "bootswatch-dist": "yeti",
+    "html5-boilerplate": "~4.3.0"
+  }
+}
